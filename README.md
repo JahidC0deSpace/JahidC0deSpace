@@ -42,8 +42,8 @@
 ### 📫 Contact Me
 
 - 📧 Email: `youremail@example.com`
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/md-jahid-hasan-jitu-a94a27230)
-- 🌐 Portfolio: [Your Portfolio Site](https://www.facebook.com/muhammad.jahidhasanjitu)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/md-jahid-hasan-jitu-a94a27230)
+- 🌐 Portfolio: [Facebook](https://www.facebook.com/muhammad.jahidhasanjitu)
 
 ---
 
