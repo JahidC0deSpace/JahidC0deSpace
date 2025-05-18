@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Md Jahid Hasan Jitu 👋</h1>
 
 <p align="center">
-  <img src="https://your-profile-picture-link-here.jpg" width="200" height="200" alt="Jitu's profile pic" style="border-radius: 50%;" />
+  <img src="https://images2.imgbox.com/c8/6e/86YsmniG_o.jpg" width="200" height="200" alt="Jitu's profile pic" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -42,8 +42,8 @@
 ### 📫 Contact Me
 
 - 📧 Email: `youremail@example.com`
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [Your Portfolio Site](https://your-portfolio-link.com)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/md-jahid-hasan-jitu-a94a27230)
+- 🌐 Portfolio: [Your Portfolio Site](https://www.facebook.com/muhammad.jahidhasanjitu)
 
 ---
 
