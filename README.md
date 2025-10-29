@@ -67,7 +67,7 @@
 ### 🎨 GitHub Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jahidjitu095&color=blueviolet" alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JahidCOdeSpace&color=blueviolet" alt="GitHub Profile Views" />
 </p>
 
 ---
