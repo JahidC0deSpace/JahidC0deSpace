@@ -58,8 +58,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahidjitu095&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidjitu095&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JahidC0deSpace&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JahidC0deSpace&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ### 🎨 GitHub Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JahidCOdeSpace&color=blueviolet" alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JahidC0deSpace&color=blueviolet" alt="GitHub Profile Views" />
 </p>
 
 ---
