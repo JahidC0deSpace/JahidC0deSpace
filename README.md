@@ -35,7 +35,7 @@
 |----------|--------------|------|
 | 🏫 **Green Bridge School** | A complete school management system with student enrollment, attendance, and grading | MERN Stack |
 | 🤖 **AI Voice Assistant** | A desktop AI assistant inspired by JARVIS | Python |
-| 🛍️ **eCommerce Site** | A responsive online shopping platform with cart & checkout system | HTML, CSS, JS, PHP |
+| 🛍️ **eCommerce Site** | A responsive online shopping platform with cart & checkout system | HTML, CSS, JS, NodeJS |
 
 ---
 
