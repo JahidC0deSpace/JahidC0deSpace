@@ -12,10 +12,10 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Science student with strong interest in **Web Development** and **Artificial Intelligence / Machine Learning**
-- 💻 Passionate about building **real-world, scalable applications**
-- 🌱 Currently focusing on **MERN Stack**, **real-time systems**, and **backend architecture**
-- 🎯 Goal: Grow as a software engineer by solving practical problems and building impactful projects
+- 🎓 Computer Science student with a strong interest in **Web Development** and **Artificial Intelligence / Machine Learning**
+- 💻 Focused on building **scalable, real-world applications**
+- 🌱 Currently working with **MERN Stack**, **real-time systems**, and **backend architecture**
+- 🎯 Goal: Grow as a software engineer by solving practical problems and building impactful software
 
 ---
 
@@ -48,9 +48,9 @@
 | Project | Description | Tech Stack |
 |-------|------------|------------|
 | 💬 **Near Chat App** | Real-time chat application with authentication, live messaging, and media handling | MERN, Socket.IO |
-| 🔐 **Authentication System** | Secure auth system with email verification, JWT, and password recovery | Node.js, Express, MongoDB |
+| 🔐 **Authentication System** | Secure authentication with email verification, JWT, and password recovery | Node.js, Express, MongoDB |
 | 🛒 **Product Store** | CRUD product management system with image support and modern UI | MERN |
-| 🧠 **ThinkBoard** | Minimal notes application with timestamped create, update, and delete functionality | MERN |
+| 🧠 **ThinkBoard** | Minimal notes app with timestamped create, update, and delete features | MERN |
 | 🤖 **AI Voice Assistant** | Desktop AI assistant inspired by JARVIS with voice commands | Python |
 
 ---
@@ -65,17 +65,25 @@
 
 ## 🎲 Fun Facts
 
-- ✈️ Enjoy traveling and discovering new places  
-- 😴 Appreciate good sleep 😄  
-- 👨‍💻 Most free time goes into coding and learning new technologies  
+- ✈️ I enjoy traveling and discovering new places  
+- 😴 I appreciate good sleep 😄  
+- 👨‍💻 Most of my free time goes into coding and learning new technologies  
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (Dynamic)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JahidC0deSpace&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JahidC0deSpace&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JahidC0deSpace&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahidC0deSpace&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JahidC0deSpace&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
