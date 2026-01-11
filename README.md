@@ -1,61 +1,77 @@
-<h1 align="center">Hi there, I'm Md. Jahid Hasan Jitu 👋</h1>
+<h1 align="center">Hi, I'm Md. Jahid Hasan Jitu 👋</h1>
 
 <p align="center">
   <img src="https://images2.imgbox.com/c8/6e/86YsmniG_o.jpg" width="200" height="200" alt="Md. Jahid Hasan Jitu" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-  🚀 Web Developer | 🤖 AI/ML Enthusiast | 💡 Lifelong Learner  
+  🚀 Web Developer | 🤖 AI & ML Enthusiast | 💡 Continuous Learner
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎓 I'm a passionate student exploring **Web Development** and **Artificial Intelligence/Machine Learning**.  
-- 💻 I enjoy combining creativity with logic to build meaningful, real-world applications.  
-- 🌱 Currently diving deeper into **Node.js**, **React**, and **Machine Learning**.  
-- 🎯 Goal: Build awesome, impactful projects that make a difference.  
-
----
-
-### ⚒️ Tech Stack
-
-- **Languages:** C, C++, Java, JavaScript, Python  
-- **Frontend:** HTML, CSS, React.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Tools & Others:** Git, GitHub, REST APIs  
+- 🎓 Computer Science student with strong interest in **Web Development** and **Artificial Intelligence / Machine Learning**
+- 💻 Passionate about building **real-world, scalable applications**
+- 🌱 Currently focusing on **MERN Stack**, **real-time systems**, and **backend architecture**
+- 🎯 Goal: Grow as a software engineer by solving practical problems and building impactful projects
 
 ---
 
-### 🛠️ Featured Projects
+## ⚒️ Tech Stack
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🏫 **Green Bridge School** | A complete school management system with student enrollment, attendance, and grading | MERN Stack |
-| 🤖 **AI Voice Assistant** | A desktop AI assistant inspired by JARVIS | Python |
-| 🛍️ **eCommerce Site** | A responsive online shopping platform with cart & checkout system | HTML, CSS, JS, NodeJS |
+**Languages**  
+- C, C++, Java, JavaScript, Python  
+
+**Frontend**  
+- HTML, CSS, React.js  
+- Tailwind CSS, Chakra UI  
+
+**Backend**  
+- Node.js, Express.js  
+- RESTful APIs, Socket.IO  
+
+**Database**  
+- MongoDB (Mongoose)
+
+**Tools & Others**  
+- Git & GitHub  
+- JWT Authentication  
+- Zustand  
+- Cloudinary  
 
 ---
 
-### 📫 Contact Me
+## 🛠️ Featured Projects
+
+| Project | Description | Tech Stack |
+|-------|------------|------------|
+| 💬 **Near Chat App** | Real-time chat application with authentication, live messaging, and media handling | MERN, Socket.IO |
+| 🔐 **Authentication System** | Secure auth system with email verification, JWT, and password recovery | Node.js, Express, MongoDB |
+| 🛒 **Product Store** | CRUD product management system with image support and modern UI | MERN |
+| 🧠 **ThinkBoard** | Minimal notes application with timestamped create, update, and delete functionality | MERN |
+| 🤖 **AI Voice Assistant** | Desktop AI assistant inspired by JARVIS with voice commands | Python |
+
+---
+
+## 📫 Contact Me
 
 - 📧 Email: **jahidjitu095@gmail.com**  
 - 💼 LinkedIn: [Md. Jahid Hasan Jitu](https://www.linkedin.com/in/md-jahid-hasan-jitu-a94a27230)  
-- 🌐 Portfolio: [Facebook](https://www.facebook.com/muhammad.jahidhasanjitu)
+- 🌐 Facebook: [Muhammad Jahid Hasan Jitu](https://www.facebook.com/muhammad.jahidhasanjitu)
 
 ---
 
-### 🎲 Fun Facts
+## 🎲 Fun Facts
 
-- ✈️ Love **traveling** and discovering new places.  
-- 😴 Enjoy **sleeping** (a lot 😆).  
-- 👨‍💻 When I’m not doing the above... I’m definitely **coooooding**.  
+- ✈️ Enjoy traveling and discovering new places  
+- 😴 Appreciate good sleep 😄  
+- 👨‍💻 Most free time goes into coding and learning new technologies  
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JahidC0deSpace&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -64,12 +80,12 @@
 
 ---
 
-### 🎨 GitHub Profile Views
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JahidC0deSpace&color=blueviolet" alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JahidC0deSpace&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
 
-⭐ **Thanks for stopping by! Have a great day! 😊**
+⭐ **Thanks for visiting my profile — feel free to explore my repositories!**
