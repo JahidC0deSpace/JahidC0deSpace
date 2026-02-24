@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hi+there!+I'm+Jahid+Hasan+Jitu;%F0%9F%9A%80+Building+the+web%2C+one+line+at+a+time;%F0%9F%A4%96+AI+%26+ML+Enthusiast+%7C+MERN+Developer" alt="Typing SVG" /></a>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 ![Focus](https://img.shields.io/badge/Focus-Web%20Development-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![AI](https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-bc8cff?style=for-the-badge&logo=tensorflow&logoColor=white)
